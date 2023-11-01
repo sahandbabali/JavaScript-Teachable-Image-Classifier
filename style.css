@@ -1,0 +1,13 @@
+.fillheight {
+  height: calc(100vh - 56px);
+}
+
+.fullwidthdiv {
+  width: 100%;
+}
+/* #previewcanvas canvas {
+  width: 100%;
+} */
+body {
+  background-color: #d6d46d;
+}
